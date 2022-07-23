@@ -1,2 +1,2 @@
 # Fundamentos-JS-Objetos
-Exercicios com Node.Js 
+Exercicios de Orientação a Objetos em Node.Js 
